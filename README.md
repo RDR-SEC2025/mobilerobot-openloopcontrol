@@ -30,11 +30,12 @@ Step5:  Give ep_chassis.drive_speed to have a circular movement.
 <br/>
 
 ## Program
-from robomaster import robot
- import time
- from robomaster import camera
+
+    from robomaster import robot
+    import time
+    from robomaster import camera
     
- if _name_ == '_main_':
+    if _name_ == '_main_':
     ep_robot = robot.Robot()
     ep_robot.initialize(conn_type="ap")
     
@@ -97,7 +98,7 @@ from robomaster import robot
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+
 
 
 <br/>
@@ -109,7 +110,7 @@ Insert image here
 
 https://youtu.be/qRsL67RhfYk?si=2YIjvfJ9yWz5PSR2
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 <br/>
 <br/>

@@ -122,7 +122,6 @@ Thus the python program code is developed to move the mobilerobot in the predefi
 
 <br/>
 <br/>
-<br/>
 
 ## Done by:
 Name: R.D.ROHITH
